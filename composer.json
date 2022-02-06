@@ -1,0 +1,17 @@
+{
+    "name": "naresh/asteriskpbx",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "lib\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Naresh",
+            "email": "naresh1934@gmail.com"
+        }
+    ],
+    "require": {}
+    
+}
